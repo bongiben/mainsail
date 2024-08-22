@@ -1,4 +1,4 @@
-# klipper-backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+# klipper for My 3d printer 
 
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+- ender3 custom direct drive with BIGTREETECH SKR Mini E3 V2.x
+- Klipper backup script for manual or automated GitHub backups
