@@ -12,7 +12,6 @@ macros macros.cfg file is at [printer_data/config/macros.cfg](https://github.com
 
 - **Mainboard**: BIGTREETECH SKR Mini E3 V2.0
 - **Stepper Drivers**: TMC2209
-- **Display**: ST7920 LCD
 - **Probing System**: BLTouch
 - **Filament Runout Sensor**: Configured
 - **Cooling Fans**: Heatbreak cooling fan and general cooling fan
