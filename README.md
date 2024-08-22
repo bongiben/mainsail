@@ -4,6 +4,7 @@
 - Klipper backup script for manual or automated GitHub backups
 
 main printer.cfg configuration file is at [printer_data/config/printer.cfg](https://github.com/bongiben/mainsail/blob/fd206d3a2f8caa8a670089263e1468404d171a7f/printer_data/config/printer.cfg)
+
 macros macros.cfg file is at [printer_data/config/macros.cfg](https://github.com/bongiben/mainsail/blob/cdc041e903a571db4d9ad03abd3fa4af53cd5fa5/printer_data/config/macros.cfg)
 
 
